@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
+
+
+*{
+}
+
+body {
+    background-color: rgb(133, 132, 132);
+    color: rgb(245, 196, 196);
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: #ff1c1c;
+    background-color: hsla(0, 91%, 48%, 0.5);
+    color: #ee1228;
+    padding: inherit;
+}
+
+p {
+    padding: 5px;
+    margin: 0px;
+}
+
+p.zero {
+    background-color: rgb(66, 9, 239);
+}
+
+p.one {
+    background-color: rgb(90, 226, 244);
+}
+
+p.two {
+    background-color: rgba(243, 106, 152, 0);
+}
+
+p.three {
+    background-color: rgb(224, 14, 88);
+}
